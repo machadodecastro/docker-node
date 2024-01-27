@@ -1,3 +1,3 @@
-Exercicio final do curso FullCycle módulo Docker com Node.js
+Exercicio final do curso FullCycle Docker + Node.js
 
-https://hub.docker.com/repository/docker/machadodecastro/desafio-node/generalgit add .
+https://hub.docker.com/repository/docker/machadodecastro/desafio-node/general
